@@ -25,3 +25,8 @@ Material:
 5x 1x4 single row pin header connectors
 2x 1x15 single row female header connectors
 1x 1x4 single row female header connectors
+
+
+
+![PCB](https://github.com/lal0cervantes/breadboard-for-esp32/assets/7573502/e364b6d2-77f2-4ca1-8b23-4b53fc626e79)
+
