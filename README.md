@@ -1,11 +1,13 @@
 # breadboard-for-esp32
 
 
-#Material:
+Material:
 
-##1x PCB "Breadboard for esp32 & micropython"
-###1x esp32 DevKit V1
-####1x Oled SSD1306 I2C
+1x PCB "Breadboard for esp32 & micropython"
+
+1x esp32 DevKit V1
+
+1x Oled SSD1306 I2C
 
 *1x LED RGB C-A
 2x LED 5mm
